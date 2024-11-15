@@ -1,0 +1,3 @@
+ABOUT THE PROJECT
+
+Setting up the backend involves configuring the database and creating endpoints for user authentication, including a signup endpoint with functionality to send a verify account email and an endpoint for email verification. Additional steps include creating a welcome email template, a logout endpoint, a login endpoint, and endpoints for forgot password and reset password, along with a check auth endpoint. The frontend setup covers building the signup and login page UIs, an email verification page, and implementing signup and email verification functionalities. Route protection, login implementation, and developing a dashboard page, followed by forgot password implementation, complete the process.
